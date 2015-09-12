@@ -1,0 +1,23 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "homepage": "https://github.com/codedogfish/books",
+  "authors": [
+    "codedogfish <jackcool1989@outlook.com>"
+  ],
+  "description": "My books website.",
+  "main": "/",
+  "keywords": [
+    "rails",
+    "books",
+    "semantic-ui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
